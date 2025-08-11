@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thien+Nguyen!;Backend+Developer+🚀;Always+Learning+📚;" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
 ## 🚀 About Me
 - 🔭 Currently working on **Backend web applications** and **mobile apps**
 - 🌱 Always **learning** and **improving** my skills
@@ -13,11 +11,6 @@
 - 📫 How to reach me: **bathien2k5@gmail.com**
 - ⚡ Fun fact: I believe **good code** is like a **good joke** – it needs no explanation!
 
-<br clear="both" />
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
 
 ## 🛠️ Tech Stack
 
@@ -86,11 +79,6 @@
 - **Version Control**: Git & GitHub
 - **Development**: Full-stack web applications
 
-<br clear="both" />
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
 
 ## 📈 GitHub Stats
 
@@ -122,14 +110,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## 🐍 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/pathin33/pathin33/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
 
 ---
 
