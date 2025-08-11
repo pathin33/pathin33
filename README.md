@@ -94,7 +94,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1974d3.gif" width="100">
   <h3>💖 Thank you for visiting my profile!</h3>
   <p>⭐ Don't forget to star my repositories if you find them useful!</p>
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 </div>
 
 <div align="center">
