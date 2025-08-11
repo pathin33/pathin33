@@ -1,132 +1,70 @@
-# ✨ Welcome to My Digital Castle in the Sky! ✨
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Thien+Nguyen;Frontend+Developer;Passionate+about+UI%2FUX+Design;Always+Learning+New+Things" />
+</p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="400" alt="Howl's Moving Castle"/>
-</div>
-
-> *"The secret to happiness is to see all the marvels of the world, and never to forget the drops of oil on the spoon."* - The Alchemist
-
-🌸 **Greetings, fellow adventurer!** I'm **Pathin**, a code magician who believes in creating digital magic just like the enchanting worlds of Studio Ghibli! ✨
-
----
-
-## 🌱 My Journey Through the Magical World of Code
-
-```
-🏰 Currently crafting: Full-stack web spells and mobile enchantments
-🌿 Learning path: Advanced backend sorcery and database mysteries  
-🎭 Seeking companions: For open-source adventures and innovative quests
-💫 My expertise: JavaScript magic, Java potions, PHP scrolls, and web wizardry
-📮 Reach me via: Carrier pigeons (or email): your.email@example.com
-⭐ Fun spell: I transform caffeine into code and dreams into applications!
-```
+<!-- Title -->
+<h1 align="center">Hi 👋, I'm Thien Nguyen</h1>
+<h3 align="center">A passionate developer from VietNam</h3>
 
 ---
 
-## 🎨 My Magical Tech Arsenal
-
-<div align="center">
-
-### 📚 Ancient Programming Scrolls
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🏛️ Mystical Frameworks & Temples
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-### 🗃️ Sacred Data Vaults
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🛠️ Magical Tools & Artifacts
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-</div>
+### 🚀 About Me  
+- 🌱 I’m currently learning **React, TypeScript, and Backend with Node.js**  
+- 💬 Ask me about **Frontend Development, Flutter, and Web Design**  
+- 📫 How to reach me: **[Your email or LinkedIn here]**  
+- ⚡ Fun fact: *I love turning coffee into code* ☕
 
 ---
 
-## 🌟 My Coding Adventures & Statistics
-
-<div align="center">
-  
-### 🏮 Current Quest Progress
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pathin33&show_icons=true&theme=calm&include_all_commits=true&count_private=true&border_color=7F3FBF&bg_color=0D1117&title_color=7F3FBF&text_color=FFF&icon_color=7F3FBF"/>
-
-### 🎋 Language Mastery Chart
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathin33&layout=compact&theme=calm&border_color=7F3FBF&bg_color=0D1117&title_color=7F3FBF&text_color=FFF"/>
-
-### 🌸 Daily Coding Ritual Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pathin33&theme=calm&background=0D1117&border=7F3FBF&ring=7F3FBF&fire=7F3FBF&currStreakLabel=7F3FBF" alt="GitHub Streak" />
-
-</div>
+### 📫 Connect with me:
+<p align="left">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/your-github" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🏆 Collected Treasures & Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pathin33&theme=onestar&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 My Coding Journey Map
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pathin33&theme=github-compact&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
-## 🎪 Featured Magical Creations
-
-<div align="center">
-
-### 🏰 [Castle Web Application](https://github.com/pathin33/project1)
-*A mystical web realm crafted with JavaScript magic and Express.js enchantments, powered by MongoDB spirits*
-
-### 🌙 [Laravel Moonlight Portal](https://github.com/pathin33/project2) 
-*An elegant PHP sanctuary built with Laravel wisdom and MySQL foundations*
-
-### ⚔️ [Java Adventure Quest](https://github.com/pathin33/project3)
-*A legendary Java application adorned with HTML scrolls and CSS styling spells*
-
-</div>
+### 🛠 Languages and Tools:
+<p align="left">
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
+<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://pugjs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+</p>
 
 ---
 
-## 🌈 Connect with Me in the Spirit World
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-
-</div>
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+</p>
 
 ---
 
-<div align="center">
-  
-### 🌸 *"Code is like magic, it can create worlds from nothing but imagination"* 🌸
-
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200" alt="Spirited Away"/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=pathin33&label=Magical%20Visitors&color=7F3FBF&style=flat)
-
-**✨ *May your code be bug-free and your commits be meaningful* ✨**
-
----
-
-*Created with 💜 by [pathin33](https://github.com/pathin33) | Inspired by the magical worlds of Studio Ghibli*
-
-</div>
+### 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-github&theme=onedark&row=1&column=6" />
+</p>
