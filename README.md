@@ -2,14 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thien+Nguyen!;Backend+Developer+🚀;Always+Learning+📚;" />
 </div>
 
-## 🚀 About Me
-- 🔭 Currently working on **Backend web applications** and **mobile apps**
-- 🌱 Always **learning** and **improving** my skills
-- 💼 Open to collaborating on **interesting projects**
-- 📫 How to reach me: **bathien2k5@gmail.com**
-- ⚡ Fun fact: I believe **good code** is like a **good joke** – it needs no explanation!
-
-
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
