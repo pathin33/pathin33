@@ -95,12 +95,12 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiennguyen&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pathin33&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiennguyen&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiennguyen&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pathin33&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathin33&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -109,13 +109,13 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thiennguyen&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pathin33&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ## 💡 Fun Stats
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=thiennguyen&color=36BCF7&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/thiennguyen?label=Followers&style=social" alt="GitHub Badge">
+  <img src="https://komarev.com/ghpvc/?username=pathin33&color=36BCF7&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/pathin33?label=Followers&style=social" alt="GitHub Badge">
 </div>
 
 <div align="center">
@@ -124,7 +124,7 @@
 
 ## 🐍 Contribution Snake
 <div align="center">
-  <img src="https://raw.githubusercontent.com/thiennguyen/thiennguyen/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/pathin33/pathin33/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <div align="center">
