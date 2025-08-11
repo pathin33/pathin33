@@ -57,19 +57,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating inno
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pathin33&theme=tokyo-night" alt="Contribution Graph" />
 </div>
 
-## 🌟 Featured Projects
-
-Here are some of my notable projects:
-
-### 🚀 [Project Name 1](https://github.com/pathin33/project1)
-Brief description of your awesome web project. Technologies used: JavaScript, Express.js, MongoDB
-
-### 💡 [Project Name 2](https://github.com/pathin33/project2)
-Another cool project description. Technologies used: PHP, Laravel, MySQL
-
-### 🔧 [Project Name 3](https://github.com/pathin33/project3)
-One more project showcase. Technologies used: Java, HTML, CSS
-
 ## 🤝 Let's Connect!
 
 I'm always open to interesting conversations and collaboration opportunities!
