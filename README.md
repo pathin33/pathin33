@@ -14,8 +14,6 @@
 
 ## 🛠️ Tech Stack
 
-<img align="right" alt="Coding GIF" width="300" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif">
-
 ### 💻 Programming Languages
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c,js,php,java,html,css" />
@@ -45,16 +43,6 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
-
-## 📊 3D Contribution Graph
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
 ## 💼 What I'm Working With
 
 ### 🌐 Frontend Development
