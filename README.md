@@ -34,29 +34,6 @@
 
 <br clear="both" />
 
-## 💼 What I'm Working With
-
-### 🌐 Frontend Development
-- **Languages**: HTML5, CSS3, JavaScript (ES6+)
-- **Styling**: Responsive Design, CSS Grid, Flexbox  
-- **Mobile**: Hybrid App Development
-
-### ⚙️ Backend Development
-- **Server-side**: Node.js, Express.js, PHP
-- **Framework**: Laravel (PHP)
-- **API**: RESTful APIs, JSON
-
-### 🗃️ Database Management
-- **SQL**: MySQL - Complex queries, optimization
-- **NoSQL**: MongoDB - Document-based database
-
-### 🔧 Development Tools
-- **IDE**: Visual Studio Code
-- **API Testing**: Postman  
-- **Version Control**: Git & GitHub
-- **Development**: Full-stack web applications
-
-
 ## 📈 GitHub Stats
 
 <div align="center">
