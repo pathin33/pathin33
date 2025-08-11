@@ -30,22 +30,6 @@
   <img src="https://skillicons.dev/icons?i=vscode,postman,git,github" />
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiennguyen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiennguyen&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiennguyen&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thiennguyen&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" />
-</div>
-
 ## 💼 What I'm Working With
 
 ### Frontend Development
