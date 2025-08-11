@@ -57,8 +57,6 @@
 
 ## 💼 What I'm Working With
 
-<img align="right" alt="Developer GIF" width="350" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-
 ### 🌐 Frontend Development
 - **Languages**: HTML5, CSS3, JavaScript (ES6+)
 - **Styling**: Responsive Design, CSS Grid, Flexbox  
