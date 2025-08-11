@@ -1,19 +1,11 @@
 # 👋 Hi there, I'm Thien Nguyen!
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
-</div>
-
 ## 🚀 About Me
 - 🔭 Currently working on Backend web applications and mobile apps
 - 🌱 Always learning and improving my skills
 - 💼 Open to collaborating on interesting projects
 - 📫 How to reach me: bathien2k5@gmail.com
 - ⚡ Fun fact: I believe good code is like a good joke – it needs no explanation!
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="300"/>
-</div>
 
 ## 🛠️ Tech Stack
 
@@ -62,10 +54,6 @@
 - **API Testing**: Postman
 - **Version Control**: Git & GitHub
 - **Development**: Full-stack web applications
-
-<div align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ5MjkxMzUsIm5iZiI6MTc1NDkyODgzNSwicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU5NzMtZTRmMjgyMDQtZWE4OC00MzY0LWEzMjEtODMzMGMzZmJkZTZhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODExVDE2MTM1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU3NzQwZTgzYTE5MGNjZDJlZTgwYjUxNTYwNzllYzA5YzczY2VkNDg2MmYyYjczNzdjMWFhYTM1YTdjN2JhZjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0" width="400"/>
-</div>
 
 ## 💡 Fun Stats
 <div align="center">
