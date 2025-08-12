@@ -1,7 +1,7 @@
 # Hi there! I'm Thien Nguyen
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif">
+  <img src="https://i.pinimg.com/originals/50/0d/05/500d05bcbc3c80383458ee245122acb8.gif" >
 </div>
 
 ## 🚀 Backend Developer
