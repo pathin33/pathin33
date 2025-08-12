@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm pathin33
 
-## 🚀 Backend Developer
+## 🚀 Backend Developer <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="30px" align="center">
 
 Welcome to my GitHub profile! I'm a passionate backend developer focused on building robust, scalable server-side solutions. I love creating efficient APIs and working with databases to power applications.
 
@@ -55,12 +55,6 @@ const pathin33 = {
 ![pathin33's GitHub stats](https://github-readme-stats.vercel.app/api?username=pathin33&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pathin33&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 Streak Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pathin33&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
