@@ -1,6 +1,8 @@
 # Hi there! 👋 I'm pathin33
 
-## 🚀 Backend Developer <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="30px" align="center">
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30px" align="center">
+
+## 🚀 Backend Developer
 
 Welcome to my GitHub profile! I'm a passionate backend developer focused on building robust, scalable server-side solutions. I love creating efficient APIs and working with databases to power applications.
 
