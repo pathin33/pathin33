@@ -1,6 +1,8 @@
 # Hi there! 👋 I'm pathin33
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif" align="center">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif" width="100">
+</div>
 
 ## 🚀 Backend Developer
 
